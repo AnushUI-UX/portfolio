@@ -87,7 +87,7 @@ function Home() {
         <div className="about-grid">
           <div className="about-text">
             <p>
-              I'm a second-year AI student passionate about making large language models
+              I'm a third-year AI student passionate about making large language models
               run efficiently and beautifully on everyday hardware. My work spans from
               fine-tuning Llama models locally to crafting immersive web experiences with
               parallax and 3D transforms.
