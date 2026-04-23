@@ -56,7 +56,7 @@ function Home() {
             <p className="hero-label">// AI & ML Engineer</p>
             <h1 className="hero-name">
               Anush<br />
-              <span className="hero-surname">Mohanty</span>
+              <span className="hero-surname">Mohanty</span><br />
               <span className="hero-name">SE23UARI011</span>
             </h1>
             <p className="hero-bio">
