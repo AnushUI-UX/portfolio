@@ -57,6 +57,7 @@ function Home() {
             <h1 className="hero-name">
               Anush<br />
               <span className="hero-surname">Mohanty</span>
+              <span className="hero-name">SE23UARI011</span>
             </h1>
             <p className="hero-bio">
               Building intelligent systems at the intersection of language, vision, and reasoning.
