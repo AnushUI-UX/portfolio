@@ -104,6 +104,15 @@ body {
   -webkit-text-stroke: 1px rgba(255, 255, 255, 0.4);
 }
 
+.hero-roll {
+  font-family: var(--font-display);
+  font-size: clamp(3rem, 5vw, 6rem);
+  font-weight: 800;
+  line-height: 0.95;
+  letter-spacing: -0.02em;
+  margin-bottom: 1.5rem;
+}
+
 .hero-bio {
   font-size: 1.05rem;
   color: var(--text-secondary);
